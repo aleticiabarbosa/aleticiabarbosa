@@ -16,8 +16,6 @@
 
 ### Trabalhando com [Kayvila Marcela.🤝](https://github.com/kayvilamarcela)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleticiabarbosa &theme=tokyonight)
-
 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{isabellybarbosac}/count.svg" /></p> 
