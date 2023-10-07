@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B1B1&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+ao+meu+perfil!👋;+Meu+nome+é+Letícia+Barbosa!+;+Sou+Estudante+de+Informática+do+IFCE.👩‍💻;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+ao+meu+perfil!👋;+Meu+nome+é+Letícia+Barbosa!😊+;+Sou+Estudante+de+Informática+do+IFCE.👩‍💻;)
 <br><br>
 
-   A felicidade vem em ondas. | 🌊
+      Sempre há um pôr do sol esperando para ser visto. |🌞
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b>Linguagens em aprendizado:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
