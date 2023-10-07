@@ -3,10 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+ao+meu+perfil!👋;+Meu+nome+é+Letícia+Barbosa!😊+;+Sou+Estudante+de+Informática+do+IFCE.👩‍💻;)
 <br><br>
 
-### Trabalhando com [Kayvila Marcela.🤝](https://github.com/kayvilamarcela)
 
-
-  Sempre há um pôr do sol esperando para ser visto.|🌞
+  Sempre há um pôr do sol ### Trabalhando com [Kayvila Marcela.🤝](https://github.com/kayvilamarcela)
+ para ser visto.|🌞
 
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b>Linguagens em aprendizado:
