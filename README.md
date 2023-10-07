@@ -4,8 +4,8 @@
 <br><br>
 
 
-  Sempre há um pôr do sol esperando
- para ser visto.|🌞
+🌞|Sempre há um pôr do sol esperando
+ para ser visto.
 
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b>Linguagens em aprendizado:
