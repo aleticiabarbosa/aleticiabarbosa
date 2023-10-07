@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+ao+meu+perfil!👋;+Meu+nome+é+Letícia+Barbosa!+;+Sou+Estudante+de+Informática+do+IFCE.👩‍💻;)
 <br><br>
 
-   A felicidade vem em ondas. |
+   A felicidade vem em ondas. | 🌊
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b>Linguagens em aprendizado:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
