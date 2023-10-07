@@ -9,6 +9,5 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 <div align="center"> 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleticiabarbosa &theme=tokyonight)
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B1B1&height=120&section=footer"/>
