@@ -14,7 +14,7 @@
  <div align="center"> 
  
 
-### Trabalhando com [raulscarvalho, jmcolombini e mangelo2174 🤝. ](https://gothub.com/raulscarvalho,jmcombini,mangelo2174)
+### Trabalhando com [raulscarvalho, jmcolombini e mangelo2174 🤝. ](https://github.com/raulscarvalho,jmcombini,mangelo2174)
 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{isabellybarbosac}/count.svg" /></p> 
